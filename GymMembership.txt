@@ -1,0 +1,18 @@
+"C:\Program Files\Java\jdk-22\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.4\lib\idea_rt.jar=58412" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Admin\IdeaProjects\1BM23AI121\out\production\1BM23AI121 GymMembership
+Enter the member's name: prerna
+Enter the member's age: 19
+Enter the membership duration (in months): 6
+Is the member active? (true/false): true
+Enter the membership fee (monthly): 2000
+Enter the promotional fee (if any): 500
+
+Member Details:
+Name: prerna
+Age: 19
+Duration: 6 months
+Active Member: Yes
+Membership Fee (Monthly): 2000
+Promotional Fee: 500
+Total Fee: 11500
+
+Process finished with exit code 0
