@@ -1,0 +1,22 @@
+C:\Users\yasaswini\.jdks\openjdk-23.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.4.1\lib\idea_rt.jar=50344" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\yasaswini\IdeaProjects\1BM23AI121\out\production\1BM23AI121 BOXING
+Autoboxing:
+Boxed Integer: 250
+Boxed Character: Z
+Boxed Byte: 75
+Boxed Short: 500
+Boxed Long: 200000
+Boxed Float: 20.8
+Boxed Double: 55.7
+Boxed Boolean: false
+
+Unboxing:
+Unboxed Integer: 250
+Unboxed Character: Z
+Unboxed Byte: 75
+Unboxed Short: 500
+Unboxed Long: 200000
+Unboxed Float: 20.8
+Unboxed Double: 55.7
+Unboxed Boolean: false
+
+Process finished with exit code 0
