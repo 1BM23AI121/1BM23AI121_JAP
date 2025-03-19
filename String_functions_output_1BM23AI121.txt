@@ -1,0 +1,15 @@
+"C:\Program Files\Java\jdk-22\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.4.1\lib\idea_rt.jar=55598" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Admin\IdeaProjects\_1BM23AI121\out\production\_1BM23AI121 StrFunctions
+String1: Hello
+String2: hello
+String comparison:
+Are the strings equal? false
+
+String copy:
+Original string: Copy me!
+Copied string: Copy me!
+
+String concatenation:
+Concatenated string: Hello, world!
+
+Process finished with exit code 0
+
