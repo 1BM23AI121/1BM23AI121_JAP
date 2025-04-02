@@ -1,0 +1,13 @@
+"C:\Program Files\Java\jdk-22\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.4\lib\idea_rt.jar=54650" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Admin\IdeaProjects\1BM23AI121\out\production\1BM23ai121 Records_arrlist
+Enter the number of students: 5
+Enter the scores for 5 students:
+Enter score for student 1: 13
+Enter score for student 2: 17
+Enter score for student 3: 21
+Enter score for student 4: 23
+Enter score for student 5: 19
+
+Total score of all students: 93
+Highest score among all students: 23
+
+Process finished with exit code 0
